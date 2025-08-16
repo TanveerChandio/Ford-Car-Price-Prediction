@@ -1,13 +1,13 @@
 # 🚗 Ford Car Price Prediction
 
-This project applies **Machine Learning** techniques to predict the price of used Ford cars based on features such as model, year, mileage, fuel type, and transmission.
+This project applies **Linear Regression** to predict the price of used Ford cars based on features such as model, year, mileage, fuel type, and transmission.
 
 ## 📌 Features
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA) with visualizations
 - Feature engineering with **One-Hot Encoding** and **Label Encoding**
-- Model building and evaluation with multiple ML algorithms
-- Comparison of models to select the best performing one
+- Model building with Linear Regression
+- Evaluating model with r2 and adjusted r2
 
 ## 🛠 Tech Stack
 - Python (NumPy, Pandas, Scikit-learn)
